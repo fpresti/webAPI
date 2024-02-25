@@ -1,8 +1,12 @@
 webAPI example in python using Flask.
 
-Remember to install next dependencies.
+If you clone this repositorie, remember to create the environment with:
+#python -m venv environment
+And afterwards to activate.
+#\environment\Scripts\activate
 
-pip install flask
-pip install pillow
-pip install tensorflow
+Then install next dependencies:
+#pip install flask
+#pip install pillow
+#pip install tensorflow
 
